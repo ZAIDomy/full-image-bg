@@ -6,7 +6,7 @@ body, html {
     color: rgb(124, 24, 24);
   }
   .bgimg-1 {
-    background-image: url("/img/img.jpeg");
+    background-image: url("../images/img.jpeg");
     height: 100%;
     width: 100%;
     position: relative;
